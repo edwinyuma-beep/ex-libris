@@ -1,0 +1,14 @@
+{
+  "name": "ex-libris",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ex Libris: biblioteca personal y lector de libros para Android",
+  "scripts": {
+    "sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "8.5.2",
+    "@capacitor/cli": "8.5.2",
+    "@capacitor/core": "8.5.2"
+  }
+}

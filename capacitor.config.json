@@ -1,0 +1,8 @@
+{
+  "appId": "com.exlibris.biblioteca",
+  "appName": "Ex Libris",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#F1F3EF"
+  }
+}

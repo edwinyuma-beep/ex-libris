@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ex Libris</string>
+    <string name="title_activity_main">Ex Libris</string>
+    <string name="package_name">com.exlibris.biblioteca</string>
+    <string name="custom_url_scheme">com.exlibris.biblioteca</string>
+</resources>
